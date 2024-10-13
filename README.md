@@ -17,6 +17,6 @@ Hi there! I'm UP Gupta, a passionate developer with a love for crafting elegant 
 
 ## 🤝 Let's Connect
 I love collaborating and sharing ideas! Feel free to reach out:
-- 💼 LinkedIn: [Ujjwal Prasad Gupta(www.linkedin.com/in/ujjwal-prasad-gupta-638186314)]
+- 💼 LinkedIn: [[Ujjwal Prasad Gupta](www.linkedin.com/in/ujjwal-prasad-gupta-638186314)]
 
 Thank you for visiting my GitHub profile! Let’s create something amazing together! 🚀
